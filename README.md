@@ -1,1 +1,1 @@
-# Huffman-Coding-Encoding
+# Huffman Encode-Decode Project
